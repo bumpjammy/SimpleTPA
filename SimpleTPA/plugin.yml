@@ -1,0 +1,17 @@
+name: SimpleTPA
+main: io.github.bumpjammy.SimpleTPA.Main
+version: 1.0
+api-version: 1.13
+commands: 
+    tpa:
+      description: Teleports you to a player!
+      usage: /tpa <player>
+    tpahere:
+      description: Teleports a player to yoU!
+      usage: /tpahere <player>
+    tpaccept:
+      description: Accept a teleport request!
+      usage: /tpaccept
+    tpdeny:
+      description: Deny a teleport request!
+      usage: /tpdeny
